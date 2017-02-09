@@ -60,3 +60,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Infinity Assets
+Content/InfinityBladeGrassLands/*
+Content/InfinityBladeIceLands/*
